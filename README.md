@@ -12,4 +12,4 @@ Has minimal data and Styling, learnt to create functional components and separat
 Simple SPA for creating my profile as bussiness card as shown
 <br>
 <br>
-<img src = "3.BussinessCard_SPA/src/images/Output.png" width=500px>
+<img src = "3.BussinessCard_SPA/src/images/Output.png" width=300px>
