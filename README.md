@@ -1,9 +1,9 @@
 # ReactPractice
 Repo for all react practice projects
 
-# firstProject
+# 1.Hello_World_CDN
 First react application using CDN
 
-# second_project
+# 2.Simple_React_SPA
 Single Page React application
 Has minimal data and Styling, learnt to create functional components and separate them accordingly.
