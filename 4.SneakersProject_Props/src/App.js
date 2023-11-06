@@ -21,6 +21,7 @@ export default function App(){
         <div>
         <NavBar />
         <Static />
+        <div className="cards">
         <Card img="Jordan_1.png"
               rating={4.1}
               reviews={20}
@@ -49,6 +50,14 @@ export default function App(){
               title="Air Jordan 4"
               price="10₹"
         />
+        <Card img="Jordan_5.png"
+              rating={4.4}
+              reviews={2}
+              country="India"
+              title="Air Jordan 4"
+              price="10₹"
+        />
+        </div>
     </div>
     )
     }

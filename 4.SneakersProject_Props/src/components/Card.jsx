@@ -11,11 +11,11 @@ import star from "../images/star.png"
 
 //mport pic from "../images/Jordan_1.png"
 
-export default function Card(props){
+export default function Card(props) {
     console.log(props.img)
-    return(
+    return (
         <div className="div_card">
-            <img className="product_img_card" src={require(`../images/${props.img}`)} alt={props.img}/>
+            <img className="product_img_card" src={require(`../images/${props.img}`)} alt={props.img} />
             <div className="rating_div">
                 <img className="logo_img_card" src={star} alt="star"></img>
                 <span><b>{props.rating}</b></span>
@@ -25,5 +25,6 @@ export default function Card(props){
             <p className="productName"><b>{props.title}</b></p>
             <p className="rate">{props.price}</p>
         </div>
+
     )
 }
