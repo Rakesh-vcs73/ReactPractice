@@ -1,0 +1,22 @@
+.Btn{
+  border-radius: 110px;
+  height: 200px;
+  width: 200px;
+  background-color: cornsilk;
+  border: solid;
+  border-color: gainsboro;
+  font-size: x-large;
+}
+
+.main-h1{
+    margin-left: 90px;
+    color: #847878;
+}
+
+.main-div{
+  display: flex;
+  flex-direction: column;
+  padding: 120px 800px;
+  background-color: #9ebcd7;
+
+}
