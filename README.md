@@ -20,4 +20,6 @@ work in progress . . .
 
 # 5.State_IncDec
 React app to increment and decrement a variable using the concept of React State.
+<br>
+<br>
 <img src = "5.State_IncDec/src/images/StateIncDecOp.png" width=300px>
